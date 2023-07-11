@@ -11,6 +11,7 @@
 		BEDDA27F2A5D94A60058030E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDDA27E2A5D94A60058030E /* ContentView.swift */; };
 		BEDDA2812A5D94A70058030E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEDDA2802A5D94A70058030E /* Assets.xcassets */; };
 		BEDDA2842A5D94A70058030E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEDDA2832A5D94A70058030E /* Preview Assets.xcassets */; };
+		BEDDA28B2A5D99FA0058030E /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDDA28A2A5D99FA0058030E /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BEDDA27E2A5D94A60058030E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BEDDA2802A5D94A70058030E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEDDA2832A5D94A70058030E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BEDDA28A2A5D99FA0058030E /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BEDDA27C2A5D94A60058030E /* CodingClubApp.swift */,
 				BEDDA27E2A5D94A60058030E /* ContentView.swift */,
+				BEDDA28A2A5D99FA0058030E /* Model.swift */,
 				BEDDA2802A5D94A70058030E /* Assets.xcassets */,
 				BEDDA2822A5D94A70058030E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEDDA28B2A5D99FA0058030E /* Model.swift in Sources */,
 				BEDDA27F2A5D94A60058030E /* ContentView.swift in Sources */,
 				BEDDA27D2A5D94A60058030E /* CodingClubApp.swift in Sources */,
 			);
